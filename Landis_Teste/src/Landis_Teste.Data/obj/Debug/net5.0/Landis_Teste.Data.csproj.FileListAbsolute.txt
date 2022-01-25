@@ -1,0 +1,15 @@
+D:\Programação\Estudos\Landis\Landis_Teste\src\Landis_Teste.Data\obj\Debug\net5.0\Landis_Teste.Data.csproj.AssemblyReference.cache
+D:\Programação\Estudos\Landis\Landis_Teste\src\Landis_Teste.Data\obj\Debug\net5.0\Landis_Teste.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Estudos\Landis\Landis_Teste\src\Landis_Teste.Data\obj\Debug\net5.0\Landis_Teste.Data.AssemblyInfoInputs.cache
+D:\Programação\Estudos\Landis\Landis_Teste\src\Landis_Teste.Data\obj\Debug\net5.0\Landis_Teste.Data.AssemblyInfo.cs
+D:\Programação\Estudos\Landis\Landis_Teste\src\Landis_Teste.Data\obj\Debug\net5.0\Landis_Teste.Data.csproj.CoreCompileInputs.cache
+D:\Programação\Estudos\Landis\Landis_Teste\src\Landis_Teste.Data\bin\Debug\net5.0\Landis_Teste.Data.deps.json
+D:\Programação\Estudos\Landis\Landis_Teste\src\Landis_Teste.Data\bin\Debug\net5.0\Landis_Teste.Data.dll
+D:\Programação\Estudos\Landis\Landis_Teste\src\Landis_Teste.Data\bin\Debug\net5.0\ref\Landis_Teste.Data.dll
+D:\Programação\Estudos\Landis\Landis_Teste\src\Landis_Teste.Data\bin\Debug\net5.0\Landis_Teste.Data.pdb
+D:\Programação\Estudos\Landis\Landis_Teste\src\Landis_Teste.Data\bin\Debug\net5.0\Landis_Teste.Business.dll
+D:\Programação\Estudos\Landis\Landis_Teste\src\Landis_Teste.Data\bin\Debug\net5.0\Landis_Teste.Business.pdb
+D:\Programação\Estudos\Landis\Landis_Teste\src\Landis_Teste.Data\obj\Debug\net5.0\Landis_Teste.Data.csproj.CopyComplete
+D:\Programação\Estudos\Landis\Landis_Teste\src\Landis_Teste.Data\obj\Debug\net5.0\Landis_Teste.Data.dll
+D:\Programação\Estudos\Landis\Landis_Teste\src\Landis_Teste.Data\obj\Debug\net5.0\ref\Landis_Teste.Data.dll
+D:\Programação\Estudos\Landis\Landis_Teste\src\Landis_Teste.Data\obj\Debug\net5.0\Landis_Teste.Data.pdb

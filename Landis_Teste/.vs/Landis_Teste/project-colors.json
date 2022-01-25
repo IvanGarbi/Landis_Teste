@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "14fdaaa5-a521-48bd-ace5-5644208a6f22": {
+      "ProjectGuid": "14fdaaa5-a521-48bd-ace5-5644208a6f22",
+      "DisplayName": "Main",
+      "ColorIndex": 0
+    },
+    "d0f6986a-fcc2-49a5-b978-ed7561911d21": {
+      "ProjectGuid": "d0f6986a-fcc2-49a5-b978-ed7561911d21",
+      "DisplayName": "Landis_Teste.Main",
+      "ColorIndex": 1
+    },
+    "d2b371b4-9675-461b-ad37-0390d2d505ab": {
+      "ProjectGuid": "d2b371b4-9675-461b-ad37-0390d2d505ab",
+      "DisplayName": "Landis_Teste.Data",
+      "ColorIndex": 2
+    },
+    "dfbb1fac-4031-4817-8c28-ee66f19e25dd": {
+      "ProjectGuid": "dfbb1fac-4031-4817-8c28-ee66f19e25dd",
+      "DisplayName": "Landis_Teste.Business",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

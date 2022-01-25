@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5yF2L2ieGLf8QO/l5UUPPjy0K3Cq9Qf1Z17J6X/0sez6HsvJ5gShsgAAP+Ez2Xtr+yv3YwrGJkzqlDUB8HOR3g==",
+  "success": true,
+  "projectFilePath": "D:\\Programação\\Estudos\\GitHub\\Landis_Teste\\Landis_Teste\\src\\Landis_Teste.Business\\Landis_Teste.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivan_\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512"
+  ],
+  "logs": []
+}
