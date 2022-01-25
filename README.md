@@ -2,4 +2,4 @@
 
 Application Console criado seguindo as especificações informadas.
 
-by Ivan Assumpção :D
+by Ivan Assumpção :grinning:
